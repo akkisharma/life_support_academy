@@ -70,3 +70,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# Use Sass to process CSS
+gem "sassc-rails"
